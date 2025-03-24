@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Tuany 😊</h1>
-<br>
 <h3 align="center">I'm studying Data Science.</h3>
 <br>
 
