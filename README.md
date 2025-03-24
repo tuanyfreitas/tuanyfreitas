@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **finance, Data Science and managing business processes.**
 
-- ⚡ Fun fact **'m balancing my career transition from Finance to Data Science while exploring ways to use Tarot.**
+- ⚡ Fun fact **I'm balancing my career transition from Finance to Data Science while exploring ways to use Tarot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
