@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tuany</h1>
+<h1 align="center">Hi, I'm Tuany 😊</h1>
+
 <h3 align="center">I'm studying Data Science.</h3>
+
 
 - 🔭 I’m currently working on **expanding my skills in Python, SQL, and Big Data.**
 
