@@ -1,18 +1,13 @@
-<h1 align="center">Hi, I'm Tuany 😊</h1>
+<h1 align="center">Hi, I'm Tuany! 😊</h1>
 <h3 align="center">I'm studying Data Science.</h3>
 <br>
 
-- 🔭 I’m currently working on **expanding my skills in Python, SQL, and Big Data.**
-
-- 🌱 I’m currently learning **Big Data, Machine Learning, and Python frameworks for data science.**
-
-- 👯 I’m looking to collaborate on **Data science projects, especially those focused on financial analysis or process optimization.**
-
-- 🤝 I’m looking for help with **applying my knowledge in Data Science to real-world challenges, specifically in areas like data visualization and machine learning.**
-
-- 💬 Ask me about **finance, Data Science and managing business processes.**
-
-- ⚡ Fun fact **I'm balancing my career transition from Finance to Data Science while exploring ways to use Tarot.**
+🔭 I’m currently working on **expanding my skills in Python, SQL, and Big Data.**
+🌱 I’m currently learning **Big Data, Machine Learning, and Python frameworks for data science.**
+👯 I’m looking to collaborate on **Data science projects, especially those focused on financial analysis or process optimization.**
+🤝 I’m looking for help with **applying my knowledge in Data Science to real-world challenges, specifically in areas like data visualization and machine learning.**
+💬 Ask me about **finance, Data Science and managing business processes.**
+⚡ Fun fact **I'm balancing my career transition from Finance to Data Science while exploring ways to use Tarot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
