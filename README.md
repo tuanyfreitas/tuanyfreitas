@@ -48,10 +48,12 @@ Atuar em projetos e empresas que valorizem a integração entre finanças, dados
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:tuanyfreitas@email.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/E-mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail"/>
+    <img align="center" src="https://img.shields.io/badge/E--mail-ffffff?style=flat&logo=gmail&logoColor=EA4335" alt="E-mail"/>
   </a>
   <a href="https://github.com/tuanyfreitas" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+
 
