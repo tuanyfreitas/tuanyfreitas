@@ -1,23 +1,58 @@
-<h1 align="center">Hi, I'm Tuany! 😊</h1>
-<h3 align="center">I'm studying Data Science.</h3>
-<br>
+<h1 align="center">Hi, I'm Tuany Freitas 👩🏻‍💻</h1>
+<h3 align="center">📊 Transitioning from Finance to Data Science</h3>
 
-🔭 I’m currently working on **expanding my skills in Python, SQL, and Big Data.**
+---
 
-🌱 I’m currently learning **Big Data, Machine Learning, and Python frameworks for data science.**
+🔍 **Current Focus:**  
+Expanding my skills in Python, SQL, and Big Data technologies while developing practical projects to apply Data Science in business and finance contexts.
 
-👯 I’m looking to collaborate on **Data science projects, especially those focused on financial analysis or process optimization.**
+📚 **Learning:**  
+Big Data, Machine Learning, Data Visualization, Python Frameworks for Data Science
 
-🤝 I’m looking for help with **applying my knowledge in Data Science to real-world challenges, specifically in areas like data visualization and machine learning.**
+🤝 **Looking to collaborate on:**  
+Real-world projects focused on analytics, financial data, and process optimization.
 
-💬 Ask me about **finance, Data Science and managing business processes.**
+💡 **Background:**  
+Experience in finance and business processes. Passionate about making data useful and accessible.  
 
-⚡ Fun fact **I'm balancing my career transition from Finance to Data Science while exploring ways to use Tarot.**
+🎯 **Goal:**  
+Land my first opportunity in Data Science to apply my knowledge, grow com profissionais incríveis e construir soluções de impacto.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/tuanyfreitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuanyfreitas" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+### 💼 Projects
+
+- 🎁 [Amigo Secreto](https://github.com/tuanyfreitas/amigosecreto) – Automated Secret Santa draw with Python
+- 🔢 [Número Secreto](https://github.com/tuanyfreitas/numerosecreto) – Simple number guessing game built with Python logic
+
+(*More projects coming soon!*)
+
+---
+
+### 📬 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/tuanyfreitas" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tuanyfreitas@email.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/tuanyfreitas" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
