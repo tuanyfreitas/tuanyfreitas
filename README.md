@@ -5,7 +5,7 @@
 
 🔍 **Sobre mim**  
 Sou formada em Administração de Empressas, com experiência em finanças e processos administrativos.  
-Atualmente estou aprofundando meus conhecimentos em **Big Data, Python, SQL e análise de dados**, buscando aplicar essas habilidades em contextos reais — especialmente nas áreas de Finanças, FinOps e otimização de processos.
+Atualmente estou aprofundando meus conhecimentos em **Big Data, Python, SQL e análise de dados**, buscando aplicar essas habilidades em contextos reais — especialmente nas áreas de Finanças e otimização de processos.
 
 Tenho facilidade com organização, visão analítica e foco em entregar soluções com clareza e impacto.
 
