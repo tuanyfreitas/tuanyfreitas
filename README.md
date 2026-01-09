@@ -4,13 +4,7 @@
 ---
 
  **Sobre mim**  
-Sou formada em Administração de Empressas, com experiência em finanças e processos administrativos.  
-Atualmente estou aprofundando meus conhecimentos em **Big Data, Python, SQL e análise de dados**, buscando aplicar essas habilidades em contextos reais — especialmente nas áreas de Finanças e otimização de processos.
-
-Tenho facilidade com organização, visão analítica e foco em entregar soluções com clareza e impacto.
-
- **Objetivo profissional**  
-Atuar em projetos e empresas que valorizem a integração entre finanças, dados e tecnologia. Quero contribuir com inteligência analítica e minha vivência prática para gerar resultados e facilitar decisões.
+Tenho background em finanças, contabilidade e administração geral de empresas, e atualmente atuo como Analista de Sistemas e Dados, integrando visão de negócio e tecnologia para apoiar decisões e otimizar processos.
 
 ---
 
