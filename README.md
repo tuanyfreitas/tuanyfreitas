@@ -3,18 +3,18 @@
 
 ---
 
-🔍 **Sobre mim**  
+ **Sobre mim**  
 Sou formada em Administração de Empressas, com experiência em finanças e processos administrativos.  
 Atualmente estou aprofundando meus conhecimentos em **Big Data, Python, SQL e análise de dados**, buscando aplicar essas habilidades em contextos reais — especialmente nas áreas de Finanças e otimização de processos.
 
 Tenho facilidade com organização, visão analítica e foco em entregar soluções com clareza e impacto.
 
-🎯 **Objetivo profissional**  
+ **Objetivo profissional**  
 Atuar em projetos e empresas que valorizem a integração entre finanças, dados e tecnologia. Quero contribuir com inteligência analítica e minha vivência prática para gerar resultados e facilitar decisões.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
@@ -29,19 +29,19 @@ Atuar em projetos e empresas que valorizem a integração entre finanças, dados
 
 ---
 
-### 💼 Projetos em destaque
+### Projetos em destaque
 
-- 🎁 [Amigo Secreto](https://github.com/tuanyfreitas/amigosecreto)  
+- [Amigo Secreto](https://github.com/tuanyfreitas/amigosecreto)  
   Automação de sorteio de amigo secreto com Python e lista de participantes.
 
-- 🔢 [Número Secreto](https://github.com/tuanyfreitas/numerosecreto)  
+- [Número Secreto](https://github.com/tuanyfreitas/numerosecreto)  
   Pequeno jogo em Python para treinar lógica condicional e laços de repetição.
 
 (*Mais projetos com foco em dados, dashboards e análise em breve.*)
 
 ---
 
-### 📬 Entre em contato
+### Entre em contato
 
 <p align="left">
   <a href="https://linkedin.com/in/tuanyfreitas" target="blank">
