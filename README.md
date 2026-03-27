@@ -30,6 +30,9 @@ Tenho background em finanças, contabilidade e administração geral de empresas
 - [Número Secreto](https://github.com/tuanyfreitas/numerosecreto)  
   Pequeno jogo em Python para treinar lógica condicional e laços de repetição.
 
+-[Telecom](https://github.com/tuanyfreitas/challengetelecomx2)
+Pipeline completo de Machine Learning para prever churn em empresa de telecom, incluindo pré-processamento, balanceamento com SMOTE, modelagem com Regressão Logística e Random Forest e geração de insights estratégicos de retenção.
+
 (*Mais projetos com foco em dados, dashboards e análise em breve.*)
 
 ---
