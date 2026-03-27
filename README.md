@@ -33,6 +33,7 @@ Tenho background em finanças, contabilidade e administração geral de empresas
 - [Telecom](https://github.com/tuanyfreitas/challengetelecomx2)
   Análise exploratória de churn em telecom para identificação de fatores estratégicos de retenção de clientes.
 
+
 - [Alura Store](https://github.com/tuanyfreitas/challengealurastore/)
   Análise exploratória de vendas com Python, incluindo scatter plot e heatmap para identificação de padrões de desempenho.
 
