@@ -31,10 +31,10 @@ Tenho background em finanças, contabilidade e administração geral de empresas
   Pequeno jogo em Python para treinar lógica condicional e laços de repetição.
 
 - [Telecom](https://github.com/tuanyfreitas/challengetelecomx2)
-Análise exploratória de churn em telecom para identificação de fatores estratégicos de retenção de clientes.
+  Análise exploratória de churn em telecom para identificação de fatores estratégicos de retenção de clientes.
 
 - [Alura Store](https://github.com/tuanyfreitas/challengealurastore/)
-Análise exploratória de vendas com Python, incluindo scatter plot e heatmap para identificação de padrões de desempenho.
+  Análise exploratória de vendas com Python, incluindo scatter plot e heatmap para identificação de padrões de desempenho.
 
 (*Mais projetos com foco em dados, dashboards e análise em breve.*)
 
